@@ -73,5 +73,72 @@ https://kccna18.sched.com/list/descriptions/
 https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU
 
 
+Operator Framework
+
+https://github.com/operator-framework
+
+https://developers.redhat.com/blog/2018/12/18/kubernetes-operators-in-depth/
+
+Helm Basics
+
+https://docs.helm.sh/using_helm/
+https://codeengineered.com/blog/2018/kubernetes-helm-related-tools/
+
+Kustomize
+
+https://Kustomize.io/
+https://kubernetes.io/blog/2018/05/29/introducing-kustomize-template-free-configuration-customization-for-kubernetes/
+https://github.com/kubernetes-sigs/kustomize
+https://kccna18.sched.com/event/GrSn/kustomize-deploy-your-app-with-template-free-yaml-ryan-cox-lyft
+
+
+Cloud Native Application Bundle
+
+Introducing CNAB: a cloud-agnostic format for packaging and running distributed applications
+https://cnab.io/
+https://github.com/docker/app
+https://duffle.sh
+https://github.com/deislabs/cnab-spec
+https://github.com/garethr/docker-app-cnab-examples
+
+
+K8 Application Deployment
+
+
+https://www.replicated.com/ship
+
+https://argoproj/argo-cd
+
+https://github.com/docker/app
+
+https://github.com/maestrosdk/maestro
+
+https://www.habitat.sh/
+
+https://draft.sh/
+
+https://github.com/metaparticle-io/
+
+https://github.com/GoogleContainerTools/skaffold
+
+https://kubeapps.com
+
+https://github.com/hasura/gitkube
+
+https://github.com/ksonnet
+
+https://github.com/ksonnet/kubecfg
+
+https://kubepack.com
+
+https://github.com/GoogleContainerTools/krew
+
+http://kompose.io/
+
+http://kedgeproject.org/
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-interactive/
+
+
 
 
