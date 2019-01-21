@@ -63,3 +63,15 @@ Please be aware that the design proposals may not mirror the implementation exac
 
 ### Storage
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/storage)
+
+KubeCon Seattle 2018: Recap 
+
+https://kccna18.sched.com/
+
+https://kccna18.sched.com/list/descriptions/
+
+https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU
+
+
+
+
